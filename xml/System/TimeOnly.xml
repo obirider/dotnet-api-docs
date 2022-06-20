@@ -1507,7 +1507,7 @@ If `start` and `end` are equal, this method returns `false`, meaning there is ze
       </ReturnValue>
       <Parameters />
       <Docs>
-        <summary>Converts the value of the current <see cref="T:System.TimeOnly" /> instance to its equivalent long date string representation.</summary>
+        <summary>Converts the value of the current <see cref="T:System.TimeOnly" /> instance to its equivalent long time string representation.</summary>
         <returns>The long time string representation of the current instance.</returns>
         <remarks>To be added.</remarks>
       </Docs>
